@@ -7,8 +7,8 @@ require "alchemy_file_selector/version"
 Gem::Specification.new do |s|
   s.name        = "alchemy_file_selector"
   s.version     = AlchemyFileSelector::VERSION
-  s.authors     = ["Jury Ghidinelli"]
-  s.email       = ["juryghidinelli@gmail.com"]
+  s.authors     = ["Marino Bonetti", "Jury Ghidinelli"]
+  s.email       = ["marinobonetti@gmail.com","juryghidinelli@gmail.com"]
   s.homepage    = "https://github.com/ArchimediaZerogroup/alchemy-file-selector"
   s.summary     = "AlchemyFileSelector"
   s.description = "AlchemyFileSelector."
