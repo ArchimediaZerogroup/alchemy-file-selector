@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.description = "AlchemyFileSelector."
   s.license     = "MIT"
 
-  s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
+  s.files = Dir["{app,config,db,lib,vendor}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
   s.add_dependency "rails", "~> 5.2.0"
   s.add_dependency "alchemy_cms", ">= 4.0"
